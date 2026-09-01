@@ -69,12 +69,15 @@ Testing will include:
 
 ### Phase 1 — Physical Build
 
-* [x] Begin chassis construction
-* [x] Plan motor placement
-* [x] Begin ball-collection mechanism
-* [ ] Finish chassis
-* [ ] Complete drivetrain
-* [ ] Finish collection mechanism
+- [x] Begin chassis construction
+- [x] Plan motor placement
+- [x] Begin ball-collection mechanism
+- [x] Work on hopper
+- [x] Plan electronics placement
+- [x] Attempt motor wire extension
+- [ ] Complete motor wiring
+- [ ] Finish chassis
+- [ ] Finish collection mechanism
 
 ### Phase 2 — Electronics
 
